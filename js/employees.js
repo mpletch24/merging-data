@@ -1,6 +1,6 @@
 var pawneeEmployees = [
     {
-        firstName: 'Leslie',
+        firstName: 'Leslie ',
         lastName: 'Knope',
         title: 'Deputy Director',
         department: 'Parks',
@@ -9,7 +9,7 @@ var pawneeEmployees = [
         picUrl: 'img/knope.jpg'
     },
     {
-        firstName: 'Tom',
+        firstName: 'Tom ',
         lastName: 'Haverford',
         title: 'Administrator',
         department: 'Parks',
@@ -18,7 +18,7 @@ var pawneeEmployees = [
         picUrl: 'img/haverford.jpg'
     },
     {
-        firstName: 'April',
+        firstName: 'April ',
         lastName: 'Ludgate-Dwyer',
         title: 'Administrative Assistant',
         department: 'Parks',
@@ -27,7 +27,7 @@ var pawneeEmployees = [
         picUrl: 'img/ludgate.jpg'
     },
     {
-        firstName: 'Donna',
+        firstName: 'Donna ',
         lastName: 'Meagle',
         title: 'Permits Secretary',
         department: 'Parks',
@@ -36,7 +36,7 @@ var pawneeEmployees = [
         picUrl: 'img/meagle.jpg'
     },
     {
-        firstName: 'Jerry (Gerry, Gary, Larry, Terry)',
+        firstName: 'Jerry (Gerry, Gary, Larry, Terry) ',
         lastName: 'Gergich',
         title: 'Office Manager',
         department: 'Parks',
@@ -45,7 +45,7 @@ var pawneeEmployees = [
         picUrl: 'img/gergich.jpg'
     },
     {
-        firstName: 'Andy',
+        firstName: 'Andy ',
         lastName: 'Dwyer',
         title: 'Shoe Shiner',
         department: 'Facilities',
@@ -53,7 +53,7 @@ var pawneeEmployees = [
         picUrl: 'img/dwyer.jpg'
     },
     {
-        firstName: 'Bill',
+        firstName: 'Bill ',
         lastName: 'Dexhart',
         title: 'Councilman',
         department: 'Council',
@@ -62,7 +62,7 @@ var pawneeEmployees = [
         picUrl: 'img/dexhart.jpg'
     },
     {
-        firstName: 'Jeremy',
+        firstName: 'Jeremy ',
         lastName: 'Jamm',
         title: 'Councilman',
         department: 'Council',
@@ -71,7 +71,7 @@ var pawneeEmployees = [
         picUrl: 'img/jamm.jpg'
     },
     {
-        firstName: 'Knope',
+        firstName: 'Knope ',
         lastName: 'Leslie',
         title: 'Councilwoman',
         department: 'Council',
@@ -80,7 +80,7 @@ var pawneeEmployees = [
         picUrl: 'img/knope-council.jpg'
     },
     {
-        firstName: 'Fielding',
+        firstName: 'Fielding ',
         lastName: 'Milton',
         title: 'Councilman',
         department: 'Council',
@@ -89,7 +89,7 @@ var pawneeEmployees = [
         picUrl: 'img/milton.jpg'
     },
     {
-        firstName: 'Douglass',
+        firstName: 'Douglass ',
         lastName: 'Howser',
         title: 'Councilman',
         department: 'Council',
@@ -98,7 +98,7 @@ var pawneeEmployees = [
         picUrl: 'img/howser.jpg'
     },
     {
-        firstName: 'Ben',
+        firstName: 'Ben ',
         lastName: 'Wyatt',
         title: 'Fiscal Advisor',
         department: 'Finance',
@@ -107,7 +107,7 @@ var pawneeEmployees = [
         picUrl: 'img/wyatt.jpg'
     },
     {
-        firstName: 'Chris',
+        firstName: 'Chris ',
         lastName: 'Traeger',
         title: 'Auditor',
         department: 'Finance',
@@ -116,7 +116,7 @@ var pawneeEmployees = [
         picUrl: 'img/traeger.jpg'
     },
     {
-        firstName: "Li'l",
+        firstName: "Li'l ",
         lastName: 'Sebastian',
         title: 'Mascot',
         department: 'Entertainment',
